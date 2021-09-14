@@ -1,0 +1,19 @@
+beh cho hedha test 
+{   
+    "username":"shams",
+    "email":"shams@code.com"
+    "password":"12345678"
+    "role"["shams","mod"]
+}
+
+mod maaneha enseignant w admin taa admin w paar défaut yekhou etudian 
+
+kima tfehemna hedhka marra aamelli login w mot de passe w admin yaamel emploi du temps 
+w jmeaa lokhrin paad login direct yichoufou emploi maamer 
+cho ena aamel barcha hajet sous forme des commentaires kima taa one_to_many taa liaison 
+bech inty matkallekch rouhek baad just ali hachtek beha zid'ha
+khater ena baad bech nzid nkabrou wahdi hattitou sousforme des commentaires bech inty matetkallekch 
+kolt maghir ma todkhel baadhek 
+ken t'heb naawnek hai mawjoud maak 
+
+ken malkitnich connecté hedha mon num : 55 894 060 
